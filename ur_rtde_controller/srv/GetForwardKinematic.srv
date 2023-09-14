@@ -1,0 +1,4 @@
+float64[] joint_position
+---
+geometry_msgs/Pose tcp_position
+bool success

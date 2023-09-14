@@ -1,0 +1,2 @@
+geometry_msgs/Pose cartesian_pose
+float64 velocity

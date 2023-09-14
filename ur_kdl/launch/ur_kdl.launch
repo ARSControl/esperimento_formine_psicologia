@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="ur_kdl" name="ur_kdl" type="ur_kdl" output="screen"/>
+</launch>

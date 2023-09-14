@@ -1,0 +1,4 @@
+geometry_msgs/Pose ee_pose
+sensor_msgs/JointState actual_joint_state
+---
+sensor_msgs/JointState joint_values
